@@ -1,4 +1,4 @@
-# Zwiggy | Food Delivery Web Application using Microservice Architecture
+# Zwiggy | Food Delivery Web Application using Microservice Architecture 🛵🍱
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -73,8 +73,8 @@ To get started with Zwiggy, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/zwiggy.git
-   cd zwiggy
+   git clone https://github.com/themihirmathur/Zwiggy.git
+   cd Zwiggy
    ```
 
 2. **Install Dependencies:**
